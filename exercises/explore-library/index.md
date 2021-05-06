@@ -9,4 +9,4 @@ Familiarize yourself with functionality provided via the [Node-RED Library](http
 - https://flows.nodered.org/node/node-red-contrib-telegrambot
   - Receiver and sender nodes which can act as a Telegram Bot
 
-But there's much more to help with prototyping your own ideas...
+But there's much more to help with prototyping your own ideas.
