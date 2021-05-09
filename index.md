@@ -2,7 +2,7 @@
 This site contains accompanying material for a hands-on workshop that is integrated into the "Digital Services" lecture held by Prof. Dr. Gerhard Satzger. 
 
 ### Facilitators
-- Jakob Schöffer ([KSRI@KIT](https://www.ksri.kit.edu/))
+- Jakob Schöffer (KIT)
 - Ellen Hoeven (IBM)
 - Lena Eckstein (IBM)
 - Daniel Kaulen (IBM)
