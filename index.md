@@ -1,5 +1,5 @@
-# KSRI@KIT - IBM Cloud Workshop
-This site contains accompanying material for a hands-on workshop that is integrated into the "Digital Services" lecture held by Prof. Dr. Gerhard Satzger. 
+# KIT X IBM Cloud Workshop
+This site contains accompanying material for a hands-on workshop that is integrated into the "Digital Services: Foundations" lecture held by Prof. Dr. Gerhard Satzger. 
 
 ### Facilitators
 - Jakob Schöffer (KIT)
