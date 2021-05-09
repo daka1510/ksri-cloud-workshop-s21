@@ -14,8 +14,8 @@ Make sure to familiarize yourself with [IBM Cloud](https://www.ibm.com/cloud), [
 - Create an [IBM Cloud account](https://cloud.ibm.com/registration)
 - Log in to your [IBM Cloud account](https://cloud.ibm.com/login)
 - Start Node-RED
-  - _recommended_: via IBM Cloud ([documentation](./guidelines/node-red-cloud)) 
-  - _optional_: locally on your workstation ([documentation](./guidelines/node-red-local))
+  - _recommended:_ via IBM Cloud ([documentation](./guidelines/node-red-cloud)) 
+  - _optional:_ locally on your workstation ([documentation](./guidelines/node-red-local))
 
 
 #### Getting Started
