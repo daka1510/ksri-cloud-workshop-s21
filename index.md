@@ -21,7 +21,3 @@ Make sure to familiarize yourself with [IBM Cloud](https://www.ibm.com/cloud), [
 #### Getting Started
 - Work through the [Universal Translator] example ([exercise](./exercises/universal-translator))
 - Explore the Node-RED Library ([excercise](./exercises/explore-library))
-
-
-### Workshop Instructions
-To be announced...
